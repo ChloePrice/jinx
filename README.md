@@ -2,10 +2,10 @@
 
 Jinx is my personal computer assistant. The project is just starting but you might want to download and use some part of it.
 
-Here is the currently available module
+Here is the currently available modules
 
 ## Jinx rename
-Rename all files in fron specified directory to delete a given prefix.
+Delete a given prefix from all filenames in a given folder
 
 ## Jinx sounds
 Used in all the project, allow computer to play some of Jinx best sentences from League of Legends game.
