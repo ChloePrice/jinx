@@ -1,5 +1,5 @@
 #/bin/bash
-JINX_SOUND_FOLDER="/home/raison/scripts/jinx/sounds/"
+JINX_SOUND_FOLDER="/home/raison/projects/jinx/sounds/"
 
 JINX_ATTACK[0]="Jinx.attack01.ogg"
 JINX_ATTACK[1]="Jinx.attack02.ogg"
